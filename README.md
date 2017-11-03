@@ -7,7 +7,8 @@ Ocean View Hotel Management System
 Video: Ocean View Hotel Management System.mp4 or my youtube channel https://youtu.be/GdQUUkA77e4
 
 # INSTALLATION
-============
+# ============
+
 Click first requirements folder
 1. Install first CRforVS_13_0_5.zip for SAP Crystal Report, mysql-connector-net-6.9.9 
    and xampp-win32-5.6.30-0-VC11-installer or other MySQL.
