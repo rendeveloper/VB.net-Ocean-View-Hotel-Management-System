@@ -5,10 +5,10 @@ VB.net Ocean View Hotel Management System
 Ocean View Hotel Management System
 
 Video: Ocean View Hotel Management System.mp4 or my youtube channel https://youtu.be/GdQUUkA77e4
-
-
-
-*Kindly Download at Mediafire
+/
+/
+/
+Kindly Download at Mediafire
 Here's the link, 
 https://www.mediafire.com/folder/5w6y1x46i2239/My_Work_Program
 
