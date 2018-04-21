@@ -10,8 +10,7 @@ Video: Ocean View Hotel Management System.mp4 or my youtube channel https://yout
 
 - Kindly Download at Mediafire
 - Here's the link, 
-- https://www.mediafire.com/folder/5w6y1x46i2239/My_Work_Program
-
+- 
 the reason is my file cant upload here at GitHub because of 100 MB Push limit my file is more than 100MB
 
 
